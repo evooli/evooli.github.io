@@ -7,7 +7,7 @@
   "scope": "/",
   "display": "minimal-ui",
   "start_url": "https://evooli.com.au/",
-  "background_color": "#000000",
+  "background_color": "#FFFF00",
   "theme_color": "transparent",
   "description": "EVOOLI on eBay sells new and used items from categories such as electronics, glass, vintage, collectables, retro, oddities and more.",
   "orientation": "any",
