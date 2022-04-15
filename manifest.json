@@ -6,7 +6,7 @@
   "short_name": "Evooli on eBay ",
   "scope": "/",
   "display": "minimal-ui",
-  "start_url": "https://evooli.com.au/",
+  "start_url": "https://evooli.github.io/",
   "background_color": "#FFFF00",
   "theme_color": "transparent",
   "description": "EVOOLI on eBay sells new and used items from categories such as electronics, glass, vintage, collectables, retro, oddities and more.",
@@ -14,7 +14,7 @@
   "related_applications": [],
   "prefer_related_applications": "false",
   "icons": [],
-  "url": "https://Evooli.com.au",
+  "url": "https://Evooli.github.io",
   "generated": true,
   "screenshots": []
 }
